@@ -2,6 +2,7 @@
 Lord of The Rings - The Return of The King - Network
 ![image](https://github.com/basia99ka/LOTR_network/assets/165905205/d31b9898-b1ce-49cc-85f4-a8dd06ed8149)
 Lord of the rings characters relationships network in python
+
 Library: pandas, selenium , spaCy,  networkx, pyvis, community
 
 1.	Using Selenium to scrape character data from the page https://lotr.fandom.com/wiki/Category:The_Lord_of_the_Rings_characters
